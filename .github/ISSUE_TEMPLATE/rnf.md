@@ -1,27 +1,31 @@
-📋 Requisitos Não Funcionais
+---
+name: "Requisito Não Funcional (RNF)"
+about: Definir uma característica de qualidade do sistema
+title: "RNFXX — "
+labels: ["RNF"]
+---
 
-Sistema de Agendamento de Hotel
+# 🛡 Requisito Não Funcional — RNFXX  
+(Altere RNFXX para o número apropriado)
 
-Abaixo estão os requisitos não funcionais do sistema:
+## 📝 Descrição
+Exemplo:  
+_O sistema deve responder às requisições em até 2 segundos._
 
-🔐 Segurança
+---
 
-RNF01 – O sistema deve garantir autenticação de usuários por meio de login e senha.
+## 🧪 Critério de Verificação
+Descreva como esse requisito será testado/validado.
 
-RNF02 – As senhas devem ser armazenadas de forma criptografada.
+---
 
-RNF03 – O sistema deve proteger os dados dos usuários conforme a legislação vigente (ex: LGPD).
+## 🔄 Área Impactada
+- [ ] Performance  
+- [ ] Segurança  
+- [ ] Usabilidade  
+- [ ] Compatibilidade  
+- [ ] Outro: _________
 
-⚡ Desempenho
+---
 
-RNF04 – O sistema deve carregar as páginas principais em até 3 segundos em condições normais de uso.
-
-RNF05 – O sistema deve suportar múltiplos usuários simultâneos sem comprometer o desempenho.
-
-💻 Usabilidade
-
-RNF06 – O sistema deve possuir interface simples e intuitiva.
-
-RNF07 – O sistema deve ser responsivo, adaptando-se a dispositivos móveis, tablets e desktops.
-
-RNF08 – O sistema deve fornecer mensagens claras de erro e confirmação ao usuário.
+## 📌 Observações
